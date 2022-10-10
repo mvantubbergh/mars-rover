@@ -1,3 +1,5 @@
+## Tests were written using JUnit 5. 
+These tests can be found in the MarsRoverTest file. 
 
 ## Run the project using test inputs
 
